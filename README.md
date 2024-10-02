@@ -48,7 +48,7 @@ We will meet every Saturday from November 2nd to November 30th (10am - 12pm WAT)
 - How to approach reading and analysing technical papers
   - Icebreaker activity
   - Participants briefly share their areas of interest
-  - Assign papers to participants
-  - Each participant will present one of the papers they suggested in week 3
+  - Assign papers to presenters
+    - Each presenter will present one of the papers they suggested in week 3
 
 [More details to come]
