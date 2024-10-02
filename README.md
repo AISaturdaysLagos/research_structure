@@ -36,3 +36,19 @@ We will meet every Saturday from November 2nd to November 30th (10am - 12pm WAT)
 - 5 weeks meeting discussions 
 - participation in paper discussions
 - Certificate of participation if all the requirements are fulfiled (more details to come)
+
+## Tentative Program
+### Week 1: Cohort kickoff and introduction to technical papers
+#### Date: November 2nd, 2024
+#### Time:
+#### Agenda
+- Welcome and cohort overview
+- Workshop: Introduction to research papers [TBD]
+- Key components of a research paper (abstract, introduction, methodology, results, etc)
+- How to approach reading and analysing technical papers
+  - Icebreaker activity
+  - Participants briefly share their areas of interest
+  - Assign papers to participants
+  - Each participant will present one of the papers they suggested in week 3
+
+[More details to come]
