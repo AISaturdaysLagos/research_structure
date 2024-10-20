@@ -190,6 +190,9 @@ In addition to the above,
 - [Ejiro Onose](https://www.linkedin.com/in/ejiro-onose/), *Technical Writer for Bazara Tech Inc*
 - [Oluwaseun Ajayi](https://www.linkedin.com/in/oluwaseun-a-ajayi/), *Machine Learning Engineer at LuminaCog*
 
+# Presented Papers
+[TBD]
+
 # Resources
 [TBD]
 
