@@ -134,7 +134,7 @@ In addition to the above,
     -  Open discussions on presentation challenges, and potential area of improvements
 
 ### Week 4: Implementation and evaluation of research paper
-#### Date: November 9th, 2024
+#### Date: November 23th, 2024
 #### Time: 10am-12pm WAT
 *Goal: To gain in-depth understanding of how researchers design experiments, choose baseline methods, evaluation metrics, and test different hyperparameter choices*
 #### Agenda
