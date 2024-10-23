@@ -152,7 +152,7 @@ In addition to the above,
     - Motivate topic with personal research project
 - Round table discussion on implementation and evaluation of research paper
   - Panelist: 
-    - [Olumide Okubadejo, PhD](https://www.linkedin.com/in/olumide-okubadejo/), *Head of Product, Sabi*
+    - [Olumide Okubadejo, PhD](https://www.linkedin.com/in/olumide-okubadejo/), *Head of Product at Sabi, previously Machine Learning Engineer at Spotify*
     - [Sahar Abdelnabi](https://www.linkedin.com/in/sahar-abdelnabi/), *AI Security Researcher at Microsoft, previously PhD student at CISPA Helmholtz Center for Information Security*
     - [Sewade Ogun](https://www.linkedin.com/in/sewade-ogun/), *AI Researcher in Speech and Language Technologies, previously PhD student at Inria*
   <!-- - Moderator: 
@@ -189,6 +189,7 @@ In addition to the above,
 - [Joscha Cüppers](https://www.linkedin.com/in/joscha-c%C3%BCppers-33aa13244/), *PhD at CISPA Helmholtz Center for Information Security*
 - [Ejiro Onose](https://www.linkedin.com/in/ejiro-onose/), *Technical Writer for Bazara Tech Inc*
 - [Oluwaseun Ajayi](https://www.linkedin.com/in/oluwaseun-a-ajayi/), *Machine Learning Engineer at LuminaCog*
+- [Adetola Adetunji](https://www.linkedin.com/in/raheemat-adetola-adetunji/), *Data Analyst at XNStatPipe*
 
 # Presented Papers
 [TBD]
