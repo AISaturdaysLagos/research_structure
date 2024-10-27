@@ -71,10 +71,10 @@ In addition to the above,
 - Round table discussions
   - Panelist: 
     - [Tejumade Afonja](https://www.linkedin.com/in/tejumadeafonja/), *Co-founder of AI Saturdays Lagos and Doctoral Researcher at CISPA*
-    - [Tobias Lorenz](https://www.linkedin.com/in/t-lorenz/), *PhD at CISPA Helmholtz Center for Information Security*
+    - [Tobias Lorenz](https://www.linkedin.com/in/t-lorenz/), *PhD Student at CISPA Helmholtz Center for Information Security*
     - [Odumakinde Ayomide](https://www.linkedin.com/in/ayoodumak/), *Research Scholar at Cohere*
-    <!-- - Moderator: 
-    - [Jeremiah Fadugba](https://www.linkedin.com/in/jeremiah-fadugba-5b3a5375/), *Doctoral Researcher at African Institute for Mathematical Sciences (AIMS)* -->
+  - Moderator: 
+    - [Jeremiah Fadugba](https://www.linkedin.com/in/jeremiah-fadugba-5b3a5375/), *Doctoral Researcher at African Institute for Mathematical Sciences (AIMS)*
   - Potential topics to discuss
     - What are your process to reading a technical research paper
     - How do you address challenges in reading and understanding papers
@@ -103,11 +103,11 @@ In addition to the above,
 
 - Round table discussions
   - Panelist: 
-    - [Khadija Iddrisu](https://www.linkedin.com/in/iddrisu-khadija/), *PhD at Dublin City University*
-    - [Joscha Cüppers](https://www.linkedin.com/in/joscha-c%C3%BCppers-33aa13244/), *PhD at CISPA Helmholtz Center for Information Security*
+    - [Khadija Iddrisu](https://www.linkedin.com/in/iddrisu-khadija/), *PhD Researcher at Insight SFI Research Centre for Data Analytics*
+    - [Joscha Cüppers](https://www.linkedin.com/in/joscha-c%C3%BCppers-33aa13244/), *PhD Student at CISPA Helmholtz Center for Information Security*
     - [Orevaoghene Ahia](https://www.linkedin.com/in/orevaoghene-ahia/), *CS PhD student at University of Washington*
-  <!--- Moderator: 
-      - [Shadrack Adeyemi](https://www.linkedin.com/in/shadrack-timi-adeyemi/), *Data Analyst at Dams Flourish Nigeria Limited* -->
+  - Moderator: 
+    - [Shadrack Adeyemi](https://www.linkedin.com/in/shadrack-timi-adeyemi/), *Data Analyst at Dams Flourish Nigeria Limited*
   - Potential topics to discuss
     - How did you choose your topic and/or your supervisor
     - How did you discover your first idea that led to publication
@@ -158,6 +158,8 @@ In addition to the above,
   <!-- - Moderator: 
     - [Oluwaseun Ajayi](https://www.linkedin.com/in/oluwaseun-a-ajayi/), *Machine Learning Engineer at LuminaCog*
     -->
+  - Moderator:
+    - [Tejumade Afonja](https://www.linkedin.com/in/tejumadeafonja/), *Co-founder of AI Saturdays Lagos and Doctoral Researcher at CISPA*
   - Potential topics to discuss
     - Is it okay to omit results that are bad on your method?
     - Why do you think authors sometimes fail to highlight the limitations of their method? 
