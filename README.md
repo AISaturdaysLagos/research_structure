@@ -68,6 +68,8 @@ In addition to the above,
     - Key strategies for reading papers effectively
     - How to critically analyse a technical paper
     - Identifying the main argument, contributions, and limitations
+- Recommended Read
+  - [How to read a paper](http://ccr.sigcomm.org/online/files/p83-keshavA.pdf)
 - Round table discussions
   - Panelist: 
     - [Tejumade Afonja](https://www.linkedin.com/in/tejumadeafonja/), *Co-founder of AI Saturdays Lagos and Doctoral Researcher at CISPA*
@@ -117,6 +119,8 @@ In addition to the above,
 - Open up the floor for Questions
 - Interactive session
    - *Goal: small groups break-out sessions to look a sample paper together and present their findings*
+ 
+
 
 ### Week 3: Paper presentation
 #### Date: November 16th, 2024
@@ -228,8 +232,6 @@ In addition to the above,
 
     Presenter: Uthman Rasheed
 
-# Resources
-[TBD]
 
 # Contact
 You can contact us at ai6lagos@gmail.com
