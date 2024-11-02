@@ -67,6 +67,7 @@ In addition to the above,
     - Key strategies for reading papers effectively
     - How to critically analyse a technical paper
     - Identifying the main argument, contributions, and limitations
+- [Slide](https://docs.google.com/presentation/d/e/2PACX-1vR-m5PfiYRqeMAIb_sSd6JixXfsa8NfyG1SZrz59qEyDKKFnPyTLna7iYBgumaCN7tzNEXwygVOouhY/pub?start=false&loop=false&delayms=3000) , [YouTube](https://youtube.com/live/dl6_AZcHUIM)
 - Recommended Read
   - [How to read a paper](http://ccr.sigcomm.org/online/files/p83-keshavA.pdf)
 - Round table discussions
@@ -84,6 +85,8 @@ In addition to the above,
 - Open up the floor for Questions
 - Interactive session
   - *Goal: audience to briefly share their areas of interest and interact with fellow attendees*
+  - - Moderator: 
+    - [Oluwaseun Ajayi](https://www.linkedin.com/in/oluwaseun-a-ajayi/), *Machine Learning Engineer at Cuvris*
 
 
 ### Week 2: The research process – from ideation to publication
@@ -108,7 +111,7 @@ In addition to the above,
     - [Joscha Cüppers](https://www.linkedin.com/in/joscha-c%C3%BCppers-33aa13244/), *PhD Student at CISPA Helmholtz Center for Information Security*
     - [Orevaoghene Ahia](https://www.linkedin.com/in/orevaoghene-ahia/), *CS PhD student at University of Washington*
   - Moderator: 
-    - [Shadrack Adeyemi](https://www.linkedin.com/in/shadrack-timi-adeyemi/), *Data Analyst at Dams Flourish Nigeria Limited*
+    - [Shadrack Adeyemi](https://www.linkedin.com/in/shadrack-timi-adeyemi/), *ML Engineer at Voltrox HQ*
   - Potential topics to discuss
     - How did you choose your topic and/or your supervisor
     - How did you discover your first idea that led to publication
@@ -190,10 +193,10 @@ In addition to the above,
 - [Tejumade Afonja](https://www.linkedin.com/in/tejumadeafonja/), *Co-founder of AI Saturdays Lagos and Doctoral Researcher at CISPA Helmholtz Center for Information Security*
 - [Oluwafemi Azeez](https://www.linkedin.com/in/azeez-oluwafemi/), *Co-founder of AI Saturdays Lagos and Head of Data Science at Pastel*
 - [Kenechi Dukor](https://www.linkedin.com/in/kenechidukor/), *Core organizer of AI Saturdays Lagos and Product Management Consultant at Motorola Solutions*
-- [Shadrack Adeyemi](https://www.linkedin.com/in/shadrack-timi-adeyemi/), *Data Analyst at Dams Flourish Nigeria Limited*
+- [Shadrack Adeyemi](https://www.linkedin.com/in/shadrack-timi-adeyemi/), *ML Engineer at Voltrox HQ*
 - [Joscha Cüppers](https://www.linkedin.com/in/joscha-c%C3%BCppers-33aa13244/), *PhD at CISPA Helmholtz Center for Information Security*
 - [Ejiro Onose](https://www.linkedin.com/in/ejiro-onose/), *Technical Writer for Bazara Tech Inc*
-- [Oluwaseun Ajayi](https://www.linkedin.com/in/oluwaseun-a-ajayi/), *Machine Learning Engineer at LuminaCog*
+- [Oluwaseun Ajayi](https://www.linkedin.com/in/oluwaseun-a-ajayi/), *Machine Learning Engineer at Cuvris*
 - [Adetola Adetunji](https://www.linkedin.com/in/raheemat-adetola-adetunji/), *Data Analyst at XNStatPipe*
 
 # Paper List - Preliminary
