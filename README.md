@@ -41,7 +41,6 @@ In addition to the above,
 ## What should I expect as a presenter?
 In addition to the above,
 - Participate in research paper presentation in week 3
-- Reproduce chosen research paper and/or extend the author's work 
 - Reproduce the result of the chosen research paper and/or extend the work 
 - Present the reproduced and/or extension results in week 5
 - Certificate of participation as AI Saturdays Lagos Research scholar
