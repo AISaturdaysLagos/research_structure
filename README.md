@@ -67,7 +67,7 @@ In addition to the above,
     - Key strategies for reading papers effectively
     - How to critically analyse a technical paper
     - Identifying the main argument, contributions, and limitations
-- [Slide](https://docs.google.com/presentation/d/e/2PACX-1vR-m5PfiYRqeMAIb_sSd6JixXfsa8NfyG1SZrz59qEyDKKFnPyTLna7iYBgumaCN7tzNEXwygVOouhY/pub?start=false&loop=false&delayms=3000) , [YouTube](https://youtube.com/live/dl6_AZcHUIM)
+    - [Slide](https://docs.google.com/presentation/d/e/2PACX-1vR-m5PfiYRqeMAIb_sSd6JixXfsa8NfyG1SZrz59qEyDKKFnPyTLna7iYBgumaCN7tzNEXwygVOouhY/pub?start=false&loop=false&delayms=3000) , [YouTube](https://youtube.com/live/dl6_AZcHUIM)
 - Recommended Read
   - [How to read a paper](http://ccr.sigcomm.org/online/files/p83-keshavA.pdf)
 - Round table discussions
