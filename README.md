@@ -200,37 +200,37 @@ In addition to the above,
 - [Adetola Adetunji](https://www.linkedin.com/in/raheemat-adetola-adetunji/), *Data Analyst at XNStatPipe*
 
 # Paper List - Preliminary
-1. Wang, Yufei, Yi Yu, Wenhan Yang, Lanqing Guo, Lap-Pui Chau, Alex C. Kot, and Bihan Wen. "Exposurediffusion: Learning to expose for low-light image enhancement." *In Proceedings of the IEEE/CVF International Conference on Computer Vision*, pp. 12438-12448. 2023.
+1. Wang, Yufei, Yi Yu, Wenhan Yang, Lanqing Guo, Lap-Pui Chau, Alex C. Kot, and Bihan Wen. "Exposurediffusion: Learning to expose for low-light image enhancement." *In Proceedings of the IEEE/CVF International Conference on Computer Vision*, pp. 12438-12448. 2023. [Link](https://openaccess.thecvf.com/content/ICCV2023/papers/Wang_ExposureDiffusion_Learning_to_Expose_for_Low-light_Image_Enhancement_ICCV_2023_paper.pdf)
 
    Presenter:  Zion Oladiran
 
 
-3. Trinh, Trieu H., Yuhuai Wu, Quoc V. Le, He He, and Thang Luong. "Solving olympiad geometry without human demonstrations." *Nature* 625, no. 7995 (2024): 476-482.
+3. Trinh, Trieu H., Yuhuai Wu, Quoc V. Le, He He, and Thang Luong. "Solving olympiad geometry without human demonstrations." *Nature* 625, no. 7995 (2024): 476-482. [Link](https://pmc.ncbi.nlm.nih.gov/articles/PMC10794143/)
 
    Presenters: Hassan Zainab Mosunmola
 
 
-3. Fareed, Mian Muhammad Sadiq, Shahid Zikria, Gulnaz Ahmed, Saqib Mahmood, Muhammad Aslam, Syeda Fizzah Jillani, Ahmad Moustafa, and Muhammad Asad. "ADD-Net: an effective deep learning model for early detection of Alzheimer disease in MRI scans." *IEEE Access* 10 (2022): 96930-96951.
+3. Fareed, Mian Muhammad Sadiq, Shahid Zikria, Gulnaz Ahmed, Saqib Mahmood, Muhammad Aslam, Syeda Fizzah Jillani, Ahmad Moustafa, and Muhammad Asad. "ADD-Net: an effective deep learning model for early detection of Alzheimer disease in MRI scans." *IEEE Access* 10 (2022): 96930-96951. [Link](https://ieeexplore.ieee.org/document/9877809)
 
    Presenter: Olusola Aremu
 
 
-5. Wu, Zhaoxuan, Mohammad Mohammadi Amiri, Ramesh Raskar, and Bryan Kian Hsiang Low. "Incentive-Aware Federated Learning with Training-Time Model Rewards." *In The Twelfth International Conference on Learning Representations*. 2024.
+5. Wu, Zhaoxuan, Mohammad Mohammadi Amiri, Ramesh Raskar, and Bryan Kian Hsiang Low. "Incentive-Aware Federated Learning with Training-Time Model Rewards." *In The Twelfth International Conference on Learning Representations*. 2024. [Link](https://openreview.net/pdf?id=FlY7WQ2hWS)
 
    Presenter: Olumide Buari
 
 
-6. Keselman, Ariel, Sergey Ten, Adham Ghazali, and Majed Jubeh. "Reinforcement learning with A* and a Deep Heuristic." *arXiv preprint arXiv:1811.07745* (2018).
+6. Keselman, Ariel, Sergey Ten, Adham Ghazali, and Majed Jubeh. "Reinforcement learning with A* and a Deep Heuristic." *arXiv preprint arXiv:1811.07745* (2018). [Link](https://arxiv.org/pdf/1811.07745)
 
    Presenter: Adesola Josiah Taiwo
 
 
-7. Park, Robin Y., Rhydian Windsor, Amir Jamaludin, and Andrew Zisserman. "Automated spinal mri labelling from reports using a large language model." *In International Conference on Medical Image Computing and Computer-Assisted Intervention*, pp. 101-111. Cham: Springer Nature Switzerland, 2024.
+7. Park, Robin Y., Rhydian Windsor, Amir Jamaludin, and Andrew Zisserman. "Automated spinal mri labelling from reports using a large language model." *In International Conference on Medical Image Computing and Computer-Assisted Intervention*, pp. 101-111. Cham: Springer Nature Switzerland, 2024. [Link](https://arxiv.org/pdf/2410.17235v1)
 
    Presenter: Bakare Kaosara
 
 
-7.  Xu, Lei, Maria Skoularidou, Alfredo Cuesta-Infante, and Kalyan Veeramachaneni. "Modeling tabular data using conditional gan." *Advances in neural information processing systems* 32 (2019).
+7.  Xu, Lei, Maria Skoularidou, Alfredo Cuesta-Infante, and Kalyan Veeramachaneni. "Modeling tabular data using conditional gan." *Advances in neural information processing systems* 32 (2019). [Link](https://papers.nips.cc/paper_files/paper/2019/file/254ed7d2de3b23ab10936522dd547b78-Paper.pdf)
 
     Presenter: Uthman Rasheed
 
