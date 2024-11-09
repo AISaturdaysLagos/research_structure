@@ -67,7 +67,7 @@ In addition to the above,
     - Key strategies for reading papers effectively
     - How to critically analyse a technical paper
     - Identifying the main argument, contributions, and limitations
-    - [Slide](https://docs.google.com/presentation/d/e/2PACX-1vR-m5PfiYRqeMAIb_sSd6JixXfsa8NfyG1SZrz59qEyDKKFnPyTLna7iYBgumaCN7tzNEXwygVOouhY/pub?start=false&loop=false&delayms=3000) , [YouTube](https://youtube.com/live/dl6_AZcHUIM)
+    - [Slide](https://docs.google.com/presentation/d/e/2PACX-1vRi4R6dBsDo5jI3pxtBDtJrXuZZ5ANUGvL0SZQxBpekHcnIpngH9yGW-GH8_dwlqzbvi4URDwogLDgI/pub?start=false&loop=false&delayms=3000) , [YouTube](https://youtube.com/live/dl6_AZcHUIM)
 - Recommended Read
   - [How to read a paper](http://ccr.sigcomm.org/online/files/p83-keshavA.pdf)
 - Round table discussions
@@ -104,7 +104,9 @@ In addition to the above,
       - Write the paper > submit > reviews > rebuttal > camera ready > poster/talk > present
     - Presenting a technical paper
     - The highs and lows of research (personal anecdotes)
-
+- [Slide](https://docs.google.com/presentation/d/e/2PACX-1vT3KCUZDfeOP1VZ2fnqQRIEQaZUmZMGv-E2wFcDqA1SKoglP3U02ybUr3JPay_7CHnojIDrFK4KgHR9/pub?start=false&loop=false&delayms=3000&slide=id.ga3c08663da_0_182) , [YouTube](https://www.youtube.com/live/he80TPREDQA)
+Recommended Read:
+  - Check Oreva's last slide.
 - Round table discussions
   - Panelist: 
     - [Khadija Iddrisu](https://www.linkedin.com/in/iddrisu-khadija/), *PhD Researcher at Insight SFI Research Centre for Data Analytics*
@@ -121,7 +123,8 @@ In addition to the above,
 - Open up the floor for Questions
 - Interactive session
    - *Goal: small groups break-out sessions to look a sample paper together and present their findings*
- 
+   - - Moderator: 
+      - [Tejumade Afonja](https://www.linkedin.com/in/tejumadeafonja/), *Co-founder of AI Saturdays Lagos and Doctoral Researcher at CISPA*
 
 
 ### Week 3: Paper presentation
@@ -234,6 +237,9 @@ In addition to the above,
 
     Presenter: Uthman Rasheed
 
+8. He, Tairan, Zhengyi Luo, Xialin He, Wenli Xiao, Chong Zhang, Weinan Zhang, Kris Kitani, Changliu Liu, and Guanya Shi. "OmniH2O: Universal and Dexterous Human-to-Humanoid Whole-Body Teleoperation and Learning." *arXiv preprint arXiv:2406.08858 (2024)*. [Link](https://arxiv.org/abs/2406.08858)
+
+     Presenter: Isaac Thani
 
 # Contact
 You can contact us at ai6lagos@gmail.com
