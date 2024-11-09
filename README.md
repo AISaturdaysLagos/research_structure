@@ -105,7 +105,7 @@ In addition to the above,
     - Presenting a technical paper
     - The highs and lows of research (personal anecdotes)
   - [Slide](https://docs.google.com/presentation/d/e/2PACX-1vT3KCUZDfeOP1VZ2fnqQRIEQaZUmZMGv-E2wFcDqA1SKoglP3U02ybUr3JPay_7CHnojIDrFK4KgHR9/pub?start=false&loop=false&delayms=3000&slide=id.ga3c08663da_0_182) , [YouTube](https://www.youtube.com/live/he80TPREDQA)
-Recommended Read:
+- Recommended Read:
   - Check Oreva's last slide.
 - Round table discussions
   - Panelist: 
