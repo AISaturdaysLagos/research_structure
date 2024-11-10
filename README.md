@@ -62,7 +62,7 @@ In addition to the above,
 - Welcome and cohort overview
 - Workshop: Introduction to reading research paper
   - Speaker: [Odumakinde Ayomide](https://www.linkedin.com/in/ayoodumak/), *Research Scholar at Cohere*
-  - Potential topics covered
+  - Topics covered
     - Components of a research paper in computer science field
     - Key strategies for reading papers effectively
     - How to critically analyse a technical paper
@@ -97,13 +97,12 @@ In addition to the above,
 - Welcome 
 - Workshop: The research process – from ideation to publication
   - Speaker: [Orevaoghene Ahia](https://www.linkedin.com/in/orevaoghene-ahia/), *Computer Science (CS) PhD student at University of Washington*
-  - Potential topics covered
-    - Choosing a topic to research / Choosing your supervisor
-    - The idea process  to publish your first paper; what does this entail?
-    - Process of submitting and publishing a paper in a top CS conference
-      - Write the paper > submit > reviews > rebuttal > camera ready > poster/talk > present
-    - Presenting a technical paper
-    - The highs and lows of research (personal anecdotes)
+  - Topics covered
+    - Choosing exciting and significant research topics
+    - Choosing your supervisor / mentors
+    - From idea to publication
+    - Presenting your ideas (before and after working on them)
+    - The highs and lows of research
   - [Slide](https://docs.google.com/presentation/d/e/2PACX-1vT3KCUZDfeOP1VZ2fnqQRIEQaZUmZMGv-E2wFcDqA1SKoglP3U02ybUr3JPay_7CHnojIDrFK4KgHR9/pub?start=false&loop=false&delayms=3000&slide=id.ga3c08663da_0_182) , [YouTube](https://www.youtube.com/live/he80TPREDQA)
 - Recommended Read:
   - Check Oreva's last slide.
