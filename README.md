@@ -136,7 +136,8 @@ In addition to the above,
 - Presentations:
   - Each presenter presents their assigned paper 
   - Peer feedback on clarity, depth, and structure of presentation
-- Group discussions
+- [YouTube](https://www.youtube.com/live/Rubtgy7QczA)
+- ~~Group discussions~~
   - Potential topics to discuss:
     -  Research questions explored in presented papers
     -  Noticeable gaps in the presented papers and potential area of extension
@@ -202,7 +203,7 @@ In addition to the above,
 - [Oluwaseun Ajayi](https://www.linkedin.com/in/oluwaseun-a-ajayi/), *Machine Learning Engineer at Cuvris*
 - [Adetola Adetunji](https://www.linkedin.com/in/raheemat-adetola-adetunji/), *Data Analyst at XNStatPipe*
 
-# Paper List - Preliminary
+# Paper List
 1. Wang, Yufei, Yi Yu, Wenhan Yang, Lanqing Guo, Lap-Pui Chau, Alex C. Kot, and Bihan Wen. "Exposurediffusion: Learning to expose for low-light image enhancement." *In Proceedings of the IEEE/CVF International Conference on Computer Vision*, pp. 12438-12448. 2023. [Link](https://openaccess.thecvf.com/content/ICCV2023/papers/Wang_ExposureDiffusion_Learning_to_Expose_for_Low-light_Image_Enhancement_ICCV_2023_paper.pdf)
 
    Presenter:  Zion Oladiran
