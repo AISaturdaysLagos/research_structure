@@ -174,8 +174,8 @@ In addition to the above,
     - How should negative results be presented? What role do they play in driving research forward?
     - What are some good research practices you believe should be more widely adopted?
 - Open up the floor for questions
-~~- Interactive group activities~~
-  ~~- *Goal: participant discuss findings from changing different hyper-parameter setting of a certain paper’s results*~~
+- ~~Interactive group activities~~
+   - ~~*Goal: participant discuss findings from changing different hyper-parameter setting of a certain paper’s results*~~
 
 
 ### Week 5: Presentation of paper reproducibility findings and closing remark
@@ -186,7 +186,7 @@ In addition to the above,
 - Welcome 
 - Presentations:
   - Presenters present re-implemented projects, discuss any extension they have made
-  - Peer and invited guests feedback on clarity, depth, and novelty
+  - Peer feedback on clarity, depth, and novelty
 - Next steps, and networking
 - Closing remarks
 
