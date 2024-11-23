@@ -138,10 +138,10 @@ In addition to the above,
   - Peer feedback on clarity, depth, and structure of presentation
 - [YouTube](https://www.youtube.com/live/Rubtgy7QczA)
 - ~~Group discussions~~
-  - Potential topics to discuss:
-    -  Research questions explored in presented papers
-    -  Noticeable gaps in the presented papers and potential area of extension
-    -  Open discussions on presentation challenges, and potential area of improvements
+  - ~~Potential topics to discuss:~~
+    -  ~~Research questions explored in presented papers~~
+    -  ~~Noticeable gaps in the presented papers and potential area of extension~~
+    -  ~~Open discussions on presentation challenges, and potential area of improvements~~
 
 ### Week 4: Implementation and evaluation of research paper
 #### Date: November 23th, 2024
