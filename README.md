@@ -151,15 +151,12 @@ In addition to the above,
 - Welcome 
 - Workshop: Implementation and Evaluation of Research Paper
   - Speaker: [Sewade Ogun](https://www.linkedin.com/in/sewade-ogun/), *AI Researcher in Speech and Language Technologies, previously PhD student at Inria*
-  - Potential topics covered
-    - How to set up experiments to be able to test different hyper parameters quickly – use of config file, etc
-    - How to choose evaluation metrics
-    - Setup experiments to tell the story you want to tell
-    - Baseline & other methods
-      - Ablation study - show that all the parts of method are needed 
-      - Different settings, noise, number of  features, scalability, (problem dependent properties) 
-      - How to tell a convincing story about your method (such that reviewers accept your paper) 
-    - Motivate topic with personal research project
+  - Topics covered
+    - How to identify a research question
+    - How to consider the feasibility of the research prject
+    - How to know what resources are available to execute the project
+    - How to examine how to publish your findings
+- [Slide](https://docs.google.com/presentation/d/e/2PACX-1vQa-yFKoufL2TQxV8cB5ZQf_jVrJXWfhtHIDDulM5uYe7cujaqXeoTVanmKq5xu6M2K_us8-o1oU1PW/pub?start=false&loop=false&delayms=3000) , [YouTube](https://www.youtube.com/live/X6IdnKv_KO0)
 - Round table discussion on implementation and evaluation of research paper
   - Panelist: 
     - [Olumide Okubadejo, PhD](https://www.linkedin.com/in/olumide-okubadejo/), *Head of Product at Sabi, previously Machine Learning Engineer at Spotify*
@@ -170,14 +167,15 @@ In addition to the above,
     -->
   - Moderator:
     - [Tejumade Afonja](https://www.linkedin.com/in/tejumadeafonja/), *Co-founder of AI Saturdays Lagos and Doctoral Researcher at CISPA*
-  - Potential topics to discuss
-    - Is it okay to omit results that are bad on your method?
-    - Why do you think authors sometimes fail to highlight the limitations of their method? 
-    - If a method fails in another setting, does this mean it is a bad method? 
-    - What are some good practices that you wish to see more of in research
+  - Topics discussed
+    - How do you decide when an experiment or finding is significant enough to be published?
+    - How do you determine which baselines to include in your paper? What criteria makes a baseline "fair"? 
+    - Does poor performance in a different setting invalidate a method's contributions? Why or why not?
+    - How should negative results be presented? What role do they play in driving research forward?
+    - What are some good research practices you believe should be more widely adopted?
 - Open up the floor for questions
-- Interactive group activities
-  - *Goal: participant discuss findings from changing different hyper-parameter setting of a certain paper’s results*
+~~- Interactive group activities~~
+  ~~- *Goal: participant discuss findings from changing different hyper-parameter setting of a certain paper’s results*~~
 
 
 ### Week 5: Presentation of paper reproducibility findings and closing remark
